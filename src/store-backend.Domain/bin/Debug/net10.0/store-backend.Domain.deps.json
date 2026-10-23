@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "store-backend.Domain/1.0.0": {
+        "runtime": {
+          "store-backend.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "store-backend.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

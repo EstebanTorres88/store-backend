@@ -1,0 +1,15 @@
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Infrastructure/bin/Debug/net8.0/store-backend.Infrastructure.deps.json
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Infrastructure/bin/Debug/net8.0/store-backend.Infrastructure.dll
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Infrastructure/bin/Debug/net8.0/store-backend.Infrastructure.pdb
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Infrastructure/bin/Debug/net8.0/store-backend.Domain.dll
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Infrastructure/bin/Debug/net8.0/store-backend.Domain.pdb
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Infrastructure/obj/Debug/net8.0/store-backend.Infrastructure.csproj.AssemblyReference.cache
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Infrastructure/obj/Debug/net8.0/store-backend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Infrastructure/obj/Debug/net8.0/store-backend.Infrastructure.AssemblyInfoInputs.cache
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Infrastructure/obj/Debug/net8.0/store-backend.Infrastructure.AssemblyInfo.cs
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Infrastructure/obj/Debug/net8.0/store-backend.Infrastructure.csproj.CoreCompileInputs.cache
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Infrastructure/obj/Debug/net8.0/store-backend.Infrastructure.dll
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Infrastructure/obj/Debug/net8.0/refint/store-backend.Infrastructure.dll
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Infrastructure/obj/Debug/net8.0/store-backend.Infrastructure.pdb
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Infrastructure/obj/Debug/net8.0/ref/store-backend.Infrastructure.dll
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Infrastructure/obj/Debug/net8.0/store-ba.F48F1119.Up2Date

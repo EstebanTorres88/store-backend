@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\store-backend.DomainService\store-backend.DomainService.csproj" />
+    <ProjectReference Include="..\store-backend.Infrastructure\store-backend.Infrastructure.csproj" />
+    <ProjectReference Include="..\store-backend.Dto\store-backend.Dto.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>store_backend.Facade</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

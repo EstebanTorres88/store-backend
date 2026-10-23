@@ -1,0 +1,11 @@
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Domain/bin/Debug/net10.0/store-backend.Domain.deps.json
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Domain/bin/Debug/net10.0/store-backend.Domain.dll
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Domain/bin/Debug/net10.0/store-backend.Domain.pdb
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Domain/obj/Debug/net10.0/store-backend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Domain/obj/Debug/net10.0/store-backend.Domain.AssemblyInfoInputs.cache
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Domain/obj/Debug/net10.0/store-backend.Domain.AssemblyInfo.cs
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Domain/obj/Debug/net10.0/store-backend.Domain.csproj.CoreCompileInputs.cache
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Domain/obj/Debug/net10.0/store-backend.Domain.dll
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Domain/obj/Debug/net10.0/refint/store-backend.Domain.dll
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Domain/obj/Debug/net10.0/store-backend.Domain.pdb
+/home/carpediem_/Documentos/ucr/semesterII/desarrollo/backend/store-backend/src/store-backend.Domain/obj/Debug/net10.0/ref/store-backend.Domain.dll

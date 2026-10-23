@@ -1,0 +1,25 @@
+<Solution>
+  <Folder Name="/src/">
+
+     <Project Path="src/store-backend.Api/store-backend.Api.csproj" />
+    <Project Path="src/store-backend.Facade/store-backend.Facade.csproj" />
+    <Project Path="src/store-backend.DomainService/store-backend.DomainService.csproj" />
+    <Project Path="src/store-backend.Infrastructure/store-backend.Infrastructure.csproj" />
+    <Project Path="src/store-backend.Domain/store-backend.Domain.csproj" />
+  <Project Path="src/store-backend.Dto/store-backend.Dto.csproj" />
+  <Project Path="src/store-backend.Exceptions/store-backend.Exceptions.csproj" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </Folder>
+ </Solution>
