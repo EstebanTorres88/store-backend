@@ -1,4 +1,3 @@
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 [Route("api/products")]
@@ -42,5 +41,19 @@ public class ProductController : ControllerBase
         var addedProduct = await _productFacade.AddAsync(dto);
         var model = ProductMapper.ToModel(addedProduct);
         return CreatedAtAction(nameof(GetProduct), new { id = model.ProductResourceId }, model);
+    }
+
+    [HttpDelete("{id}")]
+    public async Task<ActionResult> DeleteProduct(Guid id)
+    {
+        try
+        {
+            await _productFacade.DeleteAsync(id);
+            return NoContent();
+        }
+        catch (ResourceNotFoundException)
+        {
+            return NotFound();
+        }
     }
 }
